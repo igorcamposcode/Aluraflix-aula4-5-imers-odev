@@ -9,7 +9,7 @@
 # Como obter o acesso ao projeto 
 
 * * CODEPEN: https://codepen.io/igorcamposcode/pen/GRyKLza
-* * GITHUB: https://github.com/IgorcamposCODE
+* * GITHUB: https://github.com/IgorcamposCODE/Aluraflix-aula4-5-imers-odev
 * * Netlify: 
  
 
