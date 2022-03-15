@@ -14,6 +14,8 @@
 * * CODEPEN 5: https://codepen.io/igorcamposcode/pen/GRyKLza
 * * GITHUB: https://github.com/IgorcamposCODE/Aluraflix-aula4-5-imers-odev
 * * Netlify: https://auroraflix-imersaodevalura-estudos4e5.netlify.app
- 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7d5ed251-3bfc-430d-8310-5b3eb1cd10ef/deploy-status)](https://app.netlify.com/sites/auroraflix-imersaodevalura-estudos4e5/deploys)
+# NETLIFY STATUS <br> 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7d5ed251-3bfc-430d-8310-5b3eb1cd10ef/deploy-status)](https://app.netlify.com/sites/auroraflix-imersaodevalura-estudos4e5/deploys) 
+
