@@ -1,6 +1,6 @@
 # Aula 5 imersão alura
 
-<img src="https://web.whatsapp.com/e9060086-3faa-4f34-99e2-5b8942759d4a">
+<img src="blob:https://web.whatsapp.com/e9060086-3faa-4f34-99e2-5b8942759d4a">
 
 ## vimos hoje funções durante a aula da imersão alura (Estudos)
  
