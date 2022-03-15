@@ -16,4 +16,4 @@
 * * Netlify: https://auroraflix-imersaodevalura-estudos4e5.netlify.app
  
 
-# Aluraflix-aula4-5-imers-odevg
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7d5ed251-3bfc-430d-8310-5b3eb1cd10ef/deploy-status)](https://app.netlify.com/sites/auroraflix-imersaodevalura-estudos4e5/deploys)
