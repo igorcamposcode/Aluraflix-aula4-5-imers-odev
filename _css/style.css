@@ -1,0 +1,77 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image: url("https://images.alphacoders.com/533/thumb-1920-533936.jpg");
+    background-color: aquamarine;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title{ 
+    width: 200px;
+    border: 2px solid;
+    padding: 0 0 5px;
+    border-radius: 10px;
+    border-color: bisque;
+    color: #ffffff;
+    margin: 0 0 5px;
+    text-align: center;
+    }
+
+  .subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+
+  .page-subtitle{
+    color: #ffffff;
+    margin: 5px;
+  }
+  
+  .git-logo {
+    width: 50px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  #listaFilme img {
+    margin: 5px;
+    max-height: 270px;
+  }
+  
+  .form-wrapper {
+    margin: 0 0 15px;
+    color: #ffffff;
+  }
+  
+  .form-wrapper input {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 15px;
+  }
+  
+  .form-wrapper button {
+    border: 0 0 1;
+    border-color: greenyellow;
+    color: #ffffff;
+    background: #22d85f;
+    font-weight: bold;
+    padding: 15px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .form-wrapper button:hover {
+    opacity: 0.8;
+  }
+  
