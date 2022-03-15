@@ -1,6 +1,6 @@
 # Aula 5 imersão alura
 
-<img src="https://i.pinimg.com/564x/a6/ba/1b/a6ba1bd2b2b9f34baae1242b77fd3c2c.jpg">
+<img src="https://i.pinimg.com/originals/d0/45/34/d0453406ecfefcba43c67f4e5fed46a8.jpg">
 
 ## vimos hoje funções durante a aula da imersão alura (Estudos)
  
